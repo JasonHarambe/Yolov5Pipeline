@@ -1,0 +1,6 @@
+train: /content/data/images/train
+val: /content/data/images/valid
+
+nc: 2
+
+names: ['Cricketball', 'Football']
